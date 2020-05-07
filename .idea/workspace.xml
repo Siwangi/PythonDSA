@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c3b48d8-08c0-4b2e-baf2-b07a967f049e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/merge_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_number_sum_8thmay.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.merge_sort">
+  <component name="RunManager" selected="Python.two_number_sum_8thmay">
     <configuration name="5th_may_binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +93,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="factorial_7th_may" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/factorial_7th_may.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,8 +137,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="two_number_sum_8thmay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_number_sum_8thmay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.two_number_sum_8thmay" />
+        <item itemvalue="Python.factorial_7th_may" />
         <item itemvalue="Python.merge_sort" />
         <item itemvalue="Python.bubble_sort_6th_may" />
         <item itemvalue="Python.5th_may_binary_search" />
@@ -134,7 +180,9 @@
       <option name="presentableId" value="Default" />
       <updated>1588663982397</updated>
       <workItem from="1588663996887" duration="242000" />
-      <workItem from="1588664358364" duration="14977000" />
+      <workItem from="1588664358364" duration="16104000" />
+      <workItem from="1588857189962" duration="193000" />
+      <workItem from="1588875721598" duration="2956000" />
     </task>
     <servers />
   </component>
@@ -150,37 +198,45 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="500" y="173" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1588664103659" />
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1588793470510">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588879398059">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588793470510" />
-    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1588793470509">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588879398059" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588794366788" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588879398058">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588793470509" />
-    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1588793470509">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588879398058" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588794366787" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588879398057">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588793470509" />
-    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1588793470510">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588879398057" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588794366786" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588879398059">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588793470510" />
-    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1588687461948">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588879398059" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588794366787" />
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1588857097519">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588857097519" />
     <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588687461948" />
-    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1588687461947">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1588857097518">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588857097518" />
     <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1588687461947" />
-    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1588687461946">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1588857097518">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588857097518" />
     <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1588687461946" />
-    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1588687461947">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1588857097519">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588857097519" />
     <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1588687461947" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1588665337524">
       <screen x="0" y="23" width="1440" height="877" />
@@ -188,8 +244,10 @@
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1588665337524" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$factorial_7th_may.coverage" NAME="factorial_7th_may Coverage Results" MODIFIED="1588794300289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$5th_may_binary_search.coverage" NAME="5th_may_binary_search Coverage Results" MODIFIED="1588704367368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1588793470503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$bubble_sort_6th_may.coverage" NAME="bubble_sort_6th_may Coverage Results" MODIFIED="1588706632391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$two_number_sum_8thmay.coverage" NAME="two_number_sum_8thmay Coverage Results" MODIFIED="1588879398049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
