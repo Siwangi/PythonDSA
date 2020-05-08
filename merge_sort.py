@@ -29,3 +29,4 @@ for x in range(start, mid):
         elif array[start] < array[mid]:
             continue
 print("final: ", array)
+
