@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c3b48d8-08c0-4b2e-baf2-b07a967f049e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/combination_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutation_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_folder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge-sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Merge-sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/merge_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +185,7 @@
       <workItem from="1588663996887" duration="242000" />
       <workItem from="1588664358364" duration="16104000" />
       <workItem from="1588857189962" duration="193000" />
-      <workItem from="1588875721598" duration="6500000" />
+      <workItem from="1588875721598" duration="8191000" />
     </task>
     <servers />
   </component>
