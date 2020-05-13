@@ -56,13 +56,14 @@ def main():
         Choice=GetChoice()
         if Choice == 'P':
             Print()
-        if Choice == 'PU':
+        elif Choice == 'PU':
             Push()
         elif Choice == 'PO':
             Pop()
         elif Choice == "Q":
             exit()
-
+        else:
+            print("Please enter options only")
 
 
 main()
